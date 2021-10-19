@@ -7,3 +7,7 @@
     margin-top: 15%;
     font-size: 70px;
 }
+.topo, .base{
+    width: 400px;
+    margin: auto;
+}
