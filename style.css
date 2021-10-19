@@ -11,3 +11,11 @@
     width: 400px;
     margin: auto;
 }
+@media(max-width:800px){
+    .topo, .base{
+        width: 200px;
+    }
+    button{
+        margin-top: 15px;
+    }
+}
